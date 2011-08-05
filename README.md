@@ -3,7 +3,7 @@ libSimpleCSS
 
 &copy; 2008,2009,2010,2011 Atsushi Konno 
 
-libSimpleCSS is an open source ([Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)) Simple like CSS Parser and selection engine for C Language used only APR, allowing you to parse the sloppy CSS using APR pool.
+libSimpleCSS is an open source ([Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)) Simple like CSS Parser for C Language used only APR, allowing you to parse the sloppy CSS using APR pool.
 This have been used in [mod_chxj](http://sourceforge.jp/projects/modchxj/) since 2008.
 
 
